@@ -1,35 +1,36 @@
 # actividad programación estructurada
-## Título de la actividad: Introducción a la Programación Estructurada con JavaScript: Creación de un Juego de Adivinanzas.
+## Adivina un número del 1 al 100
+### Título de la actividad: Introducción a la Programación Estructurada con JavaScript: Creación de un Juego de Adivinanzas.
 
-## Objetivos de aprendizaje:
+### Objetivos de aprendizaje:
 
 - Comprender los conceptos básicos de la programación estructurada.
 - Aprender a utilizar estructuras de control (condicionales y bucles) en JavaScript.
 - Aplicar los conceptos aprendidos para crear un juego de adivinanzas simple.
 
-## Duración:
+### Duración:
 2 horas
 
-## Materiales:
+### Materiales:
 
 - Ordenadores  con acceso a un navegador web.
 - Editor de código 
 - Plantilla HTML básica (puede proporcionarse previamente).
 ## Pasos de la actividad:
 
-## Introducción (15 minutos):
+### Introducción (15 minutos):
 
 - Explica brevemente qué es la programación estructurada y por qué es importante.
 - Introduce el concepto de estructuras de control, como condicionales (if/else) y bucles (for/while).
 
-## Configuración inicial (15 minutos):
+### Configuración inicial (15 minutos):
 
 - Proporciona a los estudiantes una plantilla HTML y una estructura básica de JavaScript.
 - Explica cómo vincular el archivo JavaScript al archivo HTML.
-## Explicación del juego de adivinanzas (15 minutos):
+### Explicación del juego de adivinanzas (15 minutos):
 
 Describe el juego de adivinanzas que los estudiantes crearán: un juego en el que la computadora genera un número aleatorio y el jugador debe adivinarlo.
-## Creación del juego (45 minutos):
+### Creación del juego (45 - 90 minutos):
 
 Guía a los estudiantes a través de la creación del juego paso a paso, destacando los siguientes puntos:
 1. Generación de un número aleatorio.
@@ -54,5 +55,8 @@ Nota: Asegúrate de adaptar la actividad según el nivel de los estudiantes y de
 
 ## Conclusiones
 Esta actividad educativa ayudará a los estudiantes a comprender y aplicar los conceptos de programación estructurada utilizando JavaScript, al mismo tiempo que se divierten creando su propio juego interactivo.
-## ver una solucion
+
+***
+###  ver la ejecución en el navegador de una  posible solucion
 [actividad-progrmacion-estructurada-js/posible-solucion](https://canodelacuadra.github.io/actividad-progrmacion-estructurada-js/posible-solucion/)
+***
