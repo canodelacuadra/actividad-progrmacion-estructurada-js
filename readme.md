@@ -54,3 +54,5 @@ Nota: Asegúrate de adaptar la actividad según el nivel de los estudiantes y de
 
 ## Conclusiones
 Esta actividad educativa ayudará a los estudiantes a comprender y aplicar los conceptos de programación estructurada utilizando JavaScript, al mismo tiempo que se divierten creando su propio juego interactivo.
+## ver una solucion
+[actividad-progrmacion-estructurada-js/posible-solucion](https://canodelacuadra.github.io/actividad-progrmacion-estructurada-js/posible-solucion/)
